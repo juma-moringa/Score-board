@@ -1,6 +1,10 @@
 h1 {
     padding-top: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: 'Courgette', cursive;
+}
+h3{
+    font-family: 'Courgette', cursive;
 }
 
 form {
@@ -25,8 +29,10 @@ form p {
 }
 #score {
     display: none;
+    font-family: 'Courgette', cursive;
   } 
   .scoreDisplay {
     font-size: 25px;
+    font-family: 'Courgette', cursive;
   }
 

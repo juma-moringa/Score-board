@@ -7,6 +7,9 @@ h1 {
 h3 {
     font-family: 'Courgette', cursive;
 }
+hr{
+    color: black;
+}
 
 form {
     padding: 30px;

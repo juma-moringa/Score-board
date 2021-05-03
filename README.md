@@ -21,6 +21,6 @@ To access this project on your local files, you can clone it using these steps
 1. jQuery
 1. Bootstrap
 ### Live Site
-View [live](add the .io link)
+View [live](https://juma-moringa.github.io/Score-board/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence.

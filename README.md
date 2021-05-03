@@ -2,7 +2,7 @@
 ## Author
 Juma Allan
 ## Description
-Its a website that a user is able to take quiz and thereafter results are shown
+Its a website that a user is able to take quiz and also to choose the choices given thereafter results are shown.
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal

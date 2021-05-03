@@ -1,0 +1,32 @@
+h1 {
+    padding-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+    padding: 30px;
+    padding-bottom: 15px;
+    width: 60%;
+    border-radius: 10px;
+    background: #B1FCFC;
+    margin: 2% auto;
+    position: relative;
+}
+
+
+form p {
+    text-align: left;
+}
+
+#retake:hover,
+#submit:hover {
+    background: white;
+    color: blue;
+}
+#score {
+    display: none;
+  } 
+  .scoreDisplay {
+    font-size: 25px;
+  }
+

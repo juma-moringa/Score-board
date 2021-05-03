@@ -3,7 +3,8 @@ h1 {
     /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
     font-family: 'Courgette', cursive;
 }
-h3{
+
+h3 {
     font-family: 'Courgette', cursive;
 }
 
@@ -22,17 +23,22 @@ form p {
     text-align: left;
 }
 
-#retake:hover,
 #submit:hover {
-    background: white;
+    background: transparent;
+    color: green;
+}
+
+#retake:hover {
+    background: transparent;
     color: blue;
 }
+
 #score {
     display: none;
     font-family: 'Courgette', cursive;
-  } 
-  .scoreDisplay {
+}
+
+.scoreDisplay {
     font-size: 25px;
     font-family: 'Courgette', cursive;
-  }
-
+}
